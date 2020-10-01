@@ -1,5 +1,6 @@
 #PRACTICAL - 2
 #EXECUTING SEMICOLON SEPARATED SEQUENCE OF STATEMNTS
+## SEMICOLON works in python.....
 2+3;4**4;100//3;print('hello');x=None;print("The value of x is",x)
 
 str=input("Enter your name....\n")
